@@ -1,0 +1,5 @@
+configuration,mrr,bertscore_recall,rouge_l,bertscore_f1,human_overall
+G0,0.627,0.755,0.556,0.633,7.2
+G1,0.814,0.769,0.579,0.649,7.8
+G2,0.627,0.755,0.542,0.633,7.5
+G3,0.881,0.779,0.608,0.653,8.3
