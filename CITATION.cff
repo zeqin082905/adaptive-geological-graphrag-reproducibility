@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the accompanying manuscript."
+title: "Adaptive Geological GraphRAG: Reproducibility Package"
+type: software
+version: 1.0.0
+date-released: 2026-08-13
+authors:
+  - family-names: Yu
+    given-names: Xintao
+  - family-names: Zhang
+    given-names: Yan
+  - family-names: Sun
+    given-names: Jiangbing
+  - family-names: Chen
+    given-names: Jie
+  - family-names: Wang
+    given-names: Bo
+  - family-names: Dai
+    given-names: Wen
+repository-code: "https://github.com/zeqin082905/adaptive-geological-graphrag-reproducibility"
+license: MIT

@@ -1,0 +1,32 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+
+# Restricted research data and generated artifacts
+data/
+private_data/
+restricted_data/
+index/
+testset_output/
+outputs/
+*.sqlite3
+*.parquet
+*.lance/
+*.npy
+*.bin
+
+# Model and package caches
+.vendor/
+.cache/
+models/
+
+# Local/editor files
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+*.log
