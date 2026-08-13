@@ -1,0 +1,26 @@
+{
+  "G0": {
+    "description": "Naive vector RAG baseline",
+    "disable_graph": true,
+    "disable_reranker": true,
+    "disable_decompose": true
+  },
+  "G1": {
+    "description": "GraphRAG without adaptive decomposition",
+    "disable_graph": false,
+    "disable_reranker": false,
+    "disable_decompose": true
+  },
+  "G2": {
+    "description": "Vector retrieval with query decomposition",
+    "disable_graph": true,
+    "disable_reranker": false,
+    "disable_decompose": false
+  },
+  "G3": {
+    "description": "Full adaptive dual-pathway system",
+    "disable_graph": false,
+    "disable_reranker": false,
+    "disable_decompose": false
+  }
+}
