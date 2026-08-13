@@ -1,0 +1,9 @@
+Synthetic Geological Archive - North Ridge District
+
+This fictional document was created solely for software testing. The North Ridge district
+contains the imaginary Alder Formation, a sequence of sandstone and carbonate beds. The
+invented North Ridge Fault cuts the formation from northwest to southeast. In this
+synthetic scenario, copper-bearing quartz veins occur where subsidiary fractures meet the
+main fault. No location, organization, reserve estimate, or observation in this document
+corresponds to a real geological archive.
+
