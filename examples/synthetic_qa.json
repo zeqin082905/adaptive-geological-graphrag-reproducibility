@@ -1,0 +1,23 @@
+[
+  {
+    "id": "SYN-Q01",
+    "question": "What controls mineralization in the North Ridge district?",
+    "reference_answer": "Mineralization is controlled by the North Ridge Fault and its intersections with subsidiary fractures.",
+    "relevant_document_ids": ["synthetic_report_01", "synthetic_note_01"],
+    "category": "structural control"
+  },
+  {
+    "id": "SYN-Q02",
+    "question": "Which unit hosts the synthetic North Ridge veins?",
+    "reference_answer": "The veins are hosted by the fictional Alder Formation.",
+    "relevant_document_ids": ["synthetic_report_01", "synthetic_note_01"],
+    "category": "host unit"
+  },
+  {
+    "id": "SYN-Q03",
+    "question": "Where is zinc mineralization located in the Cedar Basin example?",
+    "reference_answer": "It is located near the intersection of the fold hinge and the Cedar Shear Zone.",
+    "relevant_document_ids": ["synthetic_report_02", "synthetic_note_02"],
+    "category": "cross-document reasoning"
+  }
+]
